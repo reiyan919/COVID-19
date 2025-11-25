@@ -21,4 +21,4 @@ Tableau for visualization
 Jupyter Notebook
 
 📈 Dashboard
-View Interactive Dashboard
+View Interactive Dashboardhttps://public.tableau.com/views/COVID-19FatalityRate/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
